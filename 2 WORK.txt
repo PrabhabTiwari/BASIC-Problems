@@ -1,0 +1,8 @@
+program to display multiplication table of an input number
+
+	ClS
+	INPUT" Enter the number";N
+	FOR I= 1 TO 10
+	PRINT N; "x";"="; I*N
+	NEXT I
+	END

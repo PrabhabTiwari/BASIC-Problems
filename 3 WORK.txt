@@ -1,0 +1,7 @@
+program to display the series:5,10,15,20,25
+
+	CLS
+	FOR C= 5 TO 25 STEP 5
+	PRINT C
+	NEXT C
+	END
